@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.9.7
+Created-By: 1.8.0_341-b10 (Oracle Corporation)
+Class-Path: lib/jcalendar-1.4.jar lib/mysql-connector-java-5.1.23-bin.
+ jar
+X-COMMENT: Main-Class will be added automatically by build
+Main-Class: projetgl.ProjetGL
+
