@@ -29,4 +29,4 @@ Gestion Theatre is a desktop application written in Java that enables users to m
 - View the updated list of movies and books in the application.
 
 ## Acknowledgments
-This application was an assignement in my compsci course.
+This application was an assignement in my compsci course :))
